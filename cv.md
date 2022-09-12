@@ -4,7 +4,7 @@
 ##### Contact information:
 * E-mail: dhushchyn@gmail.com
 * Telegram: @D99944
-*************
+***************
 
 #### Briefly About Myself:
  I have started programming when I was 17 years old and studied at the university. My first programs was written on C++ and Java as a console apps 

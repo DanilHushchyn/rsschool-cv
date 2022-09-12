@@ -1,5 +1,4 @@
 # Danil Hushchyn
-*********
 ### Junior Front-end Developer
 *************
 ##### Contact information:

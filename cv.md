@@ -1,8 +1,8 @@
 # Danil Hushchyn
-### Junior Front-end Developer
+### Junior Back-end Developer
 *************
 ##### Contact information:
-* E-mail: dhushchyn@gmail.com
+* E-mail: hushchynd@gmail.com
 * Telegram: @D99944
 ***************
 
@@ -18,13 +18,13 @@ After a multifaceted project, I realized that I wanted to be a front-end develop
 * JavaScript (Basics, Client)
 * JQUERY 3.0
 * Preprocessor SASS
-* BEM
+* Methodology BEM
 * Git, GitHub
 * VS Code, Webstorm
 * Figma, Photoshop
 
 ######  Back-end:
-* Python 3.5
+* Python 3.1
 * SQL basic
 * Django 3.2 (template,orm,route,models,views,forms,formset,access,pagination,emailing and so on)
 * Postgres/MySQL

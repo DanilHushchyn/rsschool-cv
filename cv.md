@@ -3,7 +3,7 @@
 *************
 ##### Contact information:
 * E-mail: hushchynd@gmail.com
-* Telegram: @D99944
+* Telegram: @D999444
 ***************
 
 #### Briefly About Myself:
